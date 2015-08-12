@@ -1,7 +1,7 @@
 # toolsforactivism
 ## list of digital tools for activism
 
-This is a list of digtial tools for activism, some are open source tools some are software-as-a-service tools. Not being very picky at this point, but will curate more later. They are tools that individuals or organizations can use to help with campaigning, organizing and communicating. 
+Some of these digital tools are open source and some are software-as-a-service tools. At this point, I'm not being very about what to add, but I'll curate this list more later. The tools listed here are for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating about social change. 
 
 # The List
 ## Open-source host-it-yourself:
