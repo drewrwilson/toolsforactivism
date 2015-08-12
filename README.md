@@ -4,10 +4,8 @@ Below is a list of digital tools for individuals, ad-hoc groups or formal organi
 
 ## How do I contribute to to this list?
 Have an idea of a tool that should be on this list? Here's how you can add it:
-
-**Familiar with github?** Send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
-
-**Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). FYI you'll need to create a github account.
+ * **Familiar with github?** Send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
+ * **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). FYI you'll need to create a github account.
 
 # The List
 ## Open-source host-it-yourself:
