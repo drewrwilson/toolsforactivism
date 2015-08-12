@@ -16,7 +16,7 @@ Below is a list of digital tools for individuals, ad-hoc groups or formal organi
  * [Call Congress](https://github.com/fightforthefuture/call-congress) - Coordinate call-in days to US Congress. Original project from Fight for the Future, but it's worth noting that the [Mozilla fork](https://github.com/mozilla/call-congress) has gotten a lot of attention from their developers. Frontend looks like this: [https://call.mozilla.org](https://call.mozilla.org).
  * [Twilio.org's Rapid Response Kit](https://github.com/Twilio-org/rapid-response-kit) - Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (inbound voice/sms responder), Broadcast (simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (call down a list of people, if 1st person doesn't answer go on to the next), Help Line (Press 1 for..., Press 2 for...)
  * [Ushahidi](http://www.ushahidi.com/) - Platform for data management and visualization. Other tools include CrowdMap, CrisisNET (data about world crises), Ping (tool for checking is someone is ok after an emergency), SMSsync (two-way SMS gateway). Check out their [github repos](https://github.com/ushahidi).
-
+ * [Purpose Platform](https://github.com/PurposeOpen/Platform)
 ## Software as a service:
 
  * [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
