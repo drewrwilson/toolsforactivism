@@ -1,4 +1,4 @@
-# Digital tools for activism
+# Digital Tools for Activism
 
 Below is a list of digital tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating about social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself and some of these are software-as-a-service tools that you use by going to a webpage in your browser. 
 
