@@ -30,7 +30,12 @@ Below is a list of digital tools for individuals, ad-hoc groups or formal organi
  * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
  
 ## Projects to keep an eye on (ie projects in development)
+These are all projects that are works in process. Not finished, but worth checking out.
+
  * [Where@](https://github.com/the-learning-collective/whereat) - a mobile app to help protesters communicate with each other in realtime during marches
+ * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
+ * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - web tool to help make a day of action campaign. 
+
 
 ## How do I contribute to this list?
 Have an idea of a tool that should be on this list? Here's how you can add it:
