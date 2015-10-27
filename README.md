@@ -21,6 +21,7 @@ Below is a list of digital tools for individuals, ad-hoc groups or formal organi
  * [Crowdring](https://github.com/therules/CrowdRing) - web app where people around the world can place a free missed call to sign a petition
  * [Self Starter](https://github.com/lockitron/selfstarter) - roll your own crowdfunding site
  * [TakeCharge.io](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
+ * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
 
 ## Software as a service:
 
