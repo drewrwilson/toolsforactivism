@@ -20,6 +20,7 @@ Below is a list of digital tools for individuals, ad-hoc groups or formal organi
  * [Ushahidi](http://www.ushahidi.com/) - Platform for data management and visualization. Other tools include CrowdMap, CrisisNET (data about world crises), Ping (tool for checking is someone is ok after an emergency), SMSsync (two-way SMS gateway). Check out their [github repos](https://github.com/ushahidi).
  * [Crowdring](https://github.com/therules/CrowdRing) - web app where people around the world can place a free missed call to sign a petition
  * [Self Starter](https://github.com/lockitron/selfstarter) - roll your own crowdfunding site
+ * [TakeCharge.io](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
 
 ## Software as a service:
 
@@ -28,6 +29,7 @@ Below is a list of digital tools for individuals, ad-hoc groups or formal organi
 ## Software as a service:
  * [Change.org](https://www.change.org/) Petcition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
  * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
+ * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory. 
  
 ## Projects to keep an eye on (ie projects in development)
 These are all projects that are works in process. Not finished, but worth checking out.
