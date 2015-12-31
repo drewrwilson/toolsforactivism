@@ -1,8 +1,9 @@
 # Digital Tools for Activism
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Below is a list of digital tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating about social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions. This is a work-in-progress.
+Below is a list of digital tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating about social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions.
 
 ## Table of Contents
 
@@ -26,21 +27,25 @@ Below is a list of digital tools for individuals, ad-hoc groups or formal organi
 ## Software as a service:
 
  * [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
- * [Loomio](https://www.loomio.org/) - Tool for collaborative decision-making in groups. Note: Loomio's [code is also open source](https://github.com/loomio/loomio), but it's generally used as a hosted service. 
+ * [Loomio](https://www.loomio.org/) - Tool for collaborative decision-making in groups. Note: Loomio's [code is also open source](https://github.com/loomio/loomio), but it's generally used as a hosted service.
 ## Software as a service:
  * [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
  * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
- * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory. 
- 
+ * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory.
+
 ## Projects to keep an eye on (ie projects in development)
 These are all projects that are works in process. Not finished, but worth checking out.
 
  * [Where@](https://github.com/the-learning-collective/whereat) - a mobile app to help protesters communicate with each other in realtime during marches
  * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
- * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign 
+ * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
 
 
 ## How do I contribute to this list?
 Have an idea of a tool that should be on this list? Here's how you can add it:
  * **Familiar with github?** Send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
  * **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). FYI you'll need to create a github account.
+
+## License for this content
+
+No copyright intended. Content licensed under Creative Commons [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
