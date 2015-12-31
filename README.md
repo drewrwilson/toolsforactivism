@@ -11,6 +11,7 @@ Below is a list of digital tools for individuals, ad-hoc groups or formal organi
   2. [Software as a service tools](#software-as-a-service)
   3. [Projects in development](#projects-to-keep-an-eye-on-ie-projects-in-development)
   4. [How to contribute to this list](#how-do-i-contribute-to-to-this-list)
+  5. [License](#license)
 
 
 # The List
