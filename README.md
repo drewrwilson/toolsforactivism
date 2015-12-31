@@ -1,10 +1,10 @@
 # Digital Tools for Activism
 
-<div align="center">
+<h1 align="center">
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
 
-</div>
+</h1>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
