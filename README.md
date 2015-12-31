@@ -25,6 +25,7 @@ Below is a curated list of awesome digital tools activism. These are tools for i
  * [Self Starter](https://github.com/lockitron/selfstarter) - roll your own crowdfunding site
  * [TakeCharge.io](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
  * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
+ * [Countdown](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
 
 ## Software as a service:
 
