@@ -4,7 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Below is a curated list of awesome digital tools activism. These are tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating for social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions.
+Below is a curated list of awesome digital tools for activism. These are tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating for social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions.
 
 ## Table of Contents
 
