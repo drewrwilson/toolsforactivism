@@ -36,6 +36,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
  * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
  * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory.
+ * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
 
 ## Projects to keep an eye on (ie projects in development)
 
