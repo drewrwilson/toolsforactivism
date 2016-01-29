@@ -45,6 +45,7 @@ These are all projects that are works in process. Not finished, but worth checki
  * [Where@](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches
  * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
  * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
+ * [Peacekeeper] (http://peacekeeper.org/) - Systems that allow our users to communicate with one another quickly and effectively in low level to high level emergency situations, platforms for like-minded Peacekeepers to collaborate and train together. Encourage and motivate Peacekeeper’s and their tribes to be proactive and come to the aid of their fellow men and women in emergency situations.
 
 
 ## How do I contribute to this list?
