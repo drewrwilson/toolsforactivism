@@ -37,6 +37,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
  * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory.
  * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
+ * [Autistici](https://autistici.org/) - Tools for activists, including Wordpress blogs, free webmail, VPN, web hosting, mailing lists, newletter and forums.
 
 ## Projects to keep an eye on (ie projects in development)
 
