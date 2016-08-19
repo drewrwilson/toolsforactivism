@@ -49,6 +49,7 @@ These are all projects that are works in process. Not finished, but worth checki
  * [Where@](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches
  * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
  * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
+ * [Code Corps](https://github.com/code-corps) - code corps hopes to provide tools that connect people to projects that have a social impact, facilitate crowdfunding, and provide support for those working on projects 
 
 
 ## How do I contribute to this list?
