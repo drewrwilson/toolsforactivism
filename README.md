@@ -28,6 +28,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [TakeCharge.io](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
  * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
  * [Countdown](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
+ * [CiviCRM](https://civicrm.org/) - Contact management system for non-profit / activist sector, including donations, memberships, events, SMS, bulk mail & full CRM.
 
 ## Software as a service:
 
