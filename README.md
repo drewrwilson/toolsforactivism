@@ -28,6 +28,9 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [TakeCharge.io](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
  * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
  * [Countdown](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
+ * [DemocracyOS](http://democracyos.org) - An open-source platform for public policy engagement, open feedback, and participatory governance. 
+ * [Madison](http://mymadison.io) - An open-source platform for policy proposals and petitions to be uploaded for robust public feedback and exchange.
+ * [BrigadeHub](https://brigadehub.github.io) - A full-fledged Node CMS with single-click deployment that allows you to focus on building your community, not on building your website. Integrates with Meetup.com API for events, users; Medium for blogging capabilities; and Slack.
 
 ## Software as a service:
 
