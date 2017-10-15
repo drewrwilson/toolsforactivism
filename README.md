@@ -38,7 +38,8 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory.
  * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
  * [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
- 
+ * [5 Calls](https://www.5calls.org/) - Volunteer founded site that walks the user through the process of choosing an issue and contacting their representatives. 
+
 ## Operating Systems:
 
  * [Tails](https://tails.boum.org/) - A live media, Linux-based operating system that is designed to allow the use of a computer without leaving a digital footprint.
