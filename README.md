@@ -42,6 +42,10 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 ## Operating Systems:
 
  * [Tails](https://tails.boum.org/) - A live media, Linux-based operating system that is designed to allow the use of a computer without leaving a digital footprint.
+ 
+ ## Browsers:
+
+ * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.
 
 ## Projects to keep an eye on (ie projects in development)
 
