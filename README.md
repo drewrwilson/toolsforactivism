@@ -11,7 +11,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
   1. [Open Source, host-it-yourself tools](#open-source-host-it-yourself)
   2. [Software as a service tools](#software-as-a-service)
   3. [Projects in development](#projects-to-keep-an-eye-on-ie-projects-in-development)
-  4. [How to contribute to this list](#how-do-i-contribute-to-to-this-list)
+  4. [How do I contribute to this list?](#how-do-i-contribute-to-this-list)
   5. [License](#license)
 
 
@@ -57,8 +57,7 @@ These are all projects that are works in process. Not finished, but worth checki
  * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
  * [Code Corps](https://github.com/code-corps) - code corps hopes to provide tools that connect people to projects that have a social impact, facilitate crowdfunding, and provide support for those working on projects 
 
-
-## How do I contribute to this list?
+## How do I contribute to this list
 
 Have an idea of a tool that should be on this list? Here's how you can add it:
  * **Familiar with github?** Send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
