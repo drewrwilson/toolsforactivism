@@ -11,7 +11,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
   1. [Open Source, host-it-yourself tools](#open-source-host-it-yourself)
   2. [Software as a service tools](#software-as-a-service)
   3. [Projects in development](#projects-to-keep-an-eye-on-ie-projects-in-development)
-  4. [How to contribute to this list](#how-do-i-contribute-to-to-this-list)
+  4. [How do I contribute to this list?](#how-do-i-contribute-to-this-list)
   5. [License](#license)
 
 
@@ -39,6 +39,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory.
  * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
  * [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
+ * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives. 
  
 ## Operating Systems:
 
@@ -56,9 +57,10 @@ These are all projects that are works in process. Not finished, but worth checki
  * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
  * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
  * [Umbrella App](https://github.com/securityfirst/Umbrella_android) - an open source Android App with lessons and checklists on digital and physical security topics ranging from sending a secure mail to dealing with physical surveillance and attending a protest safely. Also includes forms for responding to security incidents and feeds to ensure users are up to date with the latest security information for their area. Also available in Spanish and Chinese.
+ * [Code Corps](https://github.com/code-corps) - code corps hopes to provide tools that connect people to projects that have a social impact, facilitate crowdfunding, and provide support for those working on projects 
 
 
-## How do I contribute to this list?
+## How do I contribute to this list
 
 Have an idea of a tool that should be on this list? Here's how you can add it:
  * **Familiar with github?** Send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
