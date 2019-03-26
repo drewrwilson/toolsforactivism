@@ -40,7 +40,8 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
  * [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
  * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives. 
- 
+ * [Taskade](https://www.taskade.com/) -  Tool for collaborative task lists, notes, and outlines.
+
 ## Operating Systems:
 
  * [Tails](https://tails.boum.org/) - A live media, Linux-based operating system that is designed to allow the use of a computer without leaving a digital footprint.
