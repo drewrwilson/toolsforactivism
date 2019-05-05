@@ -29,6 +29,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
  * [Countdown](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
  * [CiviCRM](https://civicrm.org/) - Contact management system for non-profit / activist sector, including donations, memberships, events, SMS, bulk mail & full CRM.
+ * [Agorakit](https://agorakit.org/) - Agorakit is web-based, open source groupware for citizens. By creating collaborative groups, people can discuss topics, organize events, store files and keep everyone updated as needed. Agorakit is a forum, calendar, file manager, mapping tool and email notifier.
 
 ## Software as a service:
 
