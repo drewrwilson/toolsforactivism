@@ -32,7 +32,6 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Software as a service:
 
- * [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
  * [Loomio](https://www.loomio.org/) - Tool for collaborative decision-making in groups. Note: Loomio's [code is also open source](https://github.com/loomio/loomio), but it's generally used as a hosted service.
  * [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
  * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
@@ -40,6 +39,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
  * [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
  * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives. 
+ * [MoveOn's Petition Platform](https://petitions.moveon.org/) - Start your own petition on MoveOn's hosted platform. If your petition gains traction, MoveOn staff may help support you.
  
 ## Operating Systems:
 
@@ -58,6 +58,11 @@ These are all projects that are works in process. Not finished, but worth checki
  * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
  * [Umbrella App](https://github.com/securityfirst/Umbrella_android) - an open source Android App with lessons and checklists on digital and physical security topics ranging from sending a secure mail to dealing with physical surveillance and attending a protest safely. Also includes forms for responding to security incidents and feeds to ensure users are up to date with the latest security information for their area. Also available in Spanish and Chinese.
  * [Code Corps](https://github.com/code-corps) - code corps hopes to provide tools that connect people to projects that have a social impact, facilitate crowdfunding, and provide support for those working on projects 
+
+## The Graveyad
+
+These are projects or tools that once-existed but no longer exist
+ * [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
 
 
 ## How do I contribute to this list
