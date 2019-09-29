@@ -58,6 +58,8 @@ These are all projects that are works in process. Not finished, but worth checki
  * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
  * [Umbrella App](https://github.com/securityfirst/Umbrella_android) - an open source Android App with lessons and checklists on digital and physical security topics ranging from sending a secure mail to dealing with physical surveillance and attending a protest safely. Also includes forms for responding to security incidents and feeds to ensure users are up to date with the latest security information for their area. Also available in Spanish and Chinese.
  * [Code Corps](https://github.com/code-corps) - code corps hopes to provide tools that connect people to projects that have a social impact, facilitate crowdfunding, and provide support for those working on projects 
+ * [PrincexDesign](https://princexdesign.com) - A company focusing on creating equitable solutions through design and education. 
+ * [Report Racist Theatre](https://reportracisttheatre.com) - A tool that documents racism, racist ideas, and racist policies happening in the theatre industry and training institutions. You may report overt or covert instances that run on the spectrum of, "I know that's racist," to, "I'm not sure..." In the case of "I'm not sure...," trust your gut. It more than likely was, in fact, racism. Feel free to share what you feel comfortable sharing. You can use your name, an alias, or be anonymous.
 
 ## The Graveyad
 
