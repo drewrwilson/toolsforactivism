@@ -1,3 +1,10 @@
+---
+
+## There is a growing number of techies calling on Github to cancel its contract with ICE. Please take a moment to read this [open letter to Github](https://github.com/drop-ice/dear-github-2.0) and add your name to the list.
+
+---
+
+
 # Digital Tools for Activism
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
