@@ -49,6 +49,9 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  ## Browsers:
 
  * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.
+ 
+* [Brave Browser](https://github.com/brave/brave-browser) - [Brave](https://brave.com/) is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send information contributions in the form of Basic Attention Tokens to websites and content creators.
+
 
 ## Projects to keep an eye on (ie projects in development)
 
