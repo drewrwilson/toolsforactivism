@@ -41,6 +41,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
  * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives. 
  * [MoveOn's Petition Platform](https://petitions.moveon.org/) - Start your own petition on MoveOn's hosted platform. If your petition gains traction, MoveOn staff may help support you.
+ * [Meetniq.org](https://meetniq.org) - Meeting agendas and minutes, automated task follow up, and decision tracking. Made by activists for activists, and free for small groups, first nations controlled organisations, and those in low-income countries.
  
 ## Operating Systems:
 
